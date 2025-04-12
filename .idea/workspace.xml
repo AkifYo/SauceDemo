@@ -1,4 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectId" id="2vdSIUmtsvO7HTE2abGaaHhwC1q" />
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27eb952a-9bd8-4f3d-aad1-dafca67b12ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/FacebookPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/TestotomasyonPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ToFormPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/WebUniversityPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ZeroPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_testNGFramework/C01_IlkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_testNGFramework/C02_Priority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_testNGFramework/C03_dependsOnMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_TestNG_Framework/C01_BasicDriverClassKullanimi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_TestNG_Framework/C02_PageClassKullanimi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_TestNG_Framework/C03_FacebookTesti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_TestNG_Framework/C04_DropdownTesti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_TestNG_Framework/C05_WebUniversity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C01_QuitDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C02_DinamikTestDatasiKullanimi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C03_PositiveLoginTesti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C04_NegativeLoginTesti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C05_SingletonPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C06_Assertions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18_TestNGAssertions_xmlFiles/C01_SoftAssert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18_TestNGAssertions_xmlFiles/C02_ZeroSoftAssert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day19_htmlReports/C01_RaporluTestOlusturma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_crossBrowserTestler/C01_CrossBrowserAramaTesti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_crossBrowserTestler/C02_CrossBrowserPozitifLoginTesti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_htmlReports_dataProvider/C01_RaporluNegatifLoginTestleri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_htmlReports_dataProvider/C02_TopluAramaTesti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_htmlReports_dataProvider/C03_DataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_htmlReports_dataProvider/C04_TopluNegatifLoginTesti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/FacebookPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/TestotomasyonPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/ToFormPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/WebUniversityPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/ZeroPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_testNGFramework/C01_IlkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_testNGFramework/C02_Priority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_testNGFramework/C03_dependsOnMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_TestNG_Framework/C01_BasicDriverClassKullanimi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_TestNG_Framework/C02_PageClassKullanimi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_TestNG_Framework/C03_FacebookTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_TestNG_Framework/C04_DropdownTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_TestNG_Framework/C05_WebUniversity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C01_QuitDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C02_DinamikTestDatasiKullanimi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C03_PositiveLoginTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C04_NegativeLoginTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C05_SingletonPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C06_Assertions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18_TestNGAssertions_xmlFiles/C01_SoftAssert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18_TestNGAssertions_xmlFiles/C02_ZeroSoftAssert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day19_htmlReports/C01_RaporluTestOlusturma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_crossBrowserTestler/C01_CrossBrowserAramaTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_crossBrowserTestler/C02_CrossBrowserPozitifLoginTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_htmlReports_dataProvider/C01_RaporluNegatifLoginTestleri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_htmlReports_dataProvider/C02_TopluAramaTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_htmlReports_dataProvider/C03_DataProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_htmlReports_dataProvider/C04_TopluNegatifLoginTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlFiles/istenenClasslariCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/istenenClasslariCalistirma.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlFiles/raporluClasslariCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/raporluClasslariCalistirma.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AkifYo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AkifYo/SeleniumSauceDemoTest.git",
+    "accountId": "238fef0d-dd6f-4e8f-8d63-9f9ab34461ec"
+  }
+}]]></component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
 </project>
