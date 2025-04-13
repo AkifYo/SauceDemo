@@ -17,7 +17,7 @@
         </packages>
 
         <classes>
-            <class name="tests.day16_TestNG_Framework.C04_DropdownTesti"></class>
+            <class name="tests.saucedemo.C04_DropdownTesti"></class>
             <class name="tests.day18_TestNGAssertions_xmlFiles.C01_SoftAssert"></class>
             <class name="tests.day17_TestNGFramework_Assertions.C04_NegativeLoginTesti">
                 <methods>

@@ -12,8 +12,8 @@
     <test name="paralel test 01">
         <classes>
             <class name="tests.day15_testNGFramework.C01_IlkTest"></class>
-            <class name="tests.day16_TestNG_Framework.C02_PageClassKullanimi"></class>
-            <class name="tests.day16_TestNG_Framework.C04_DropdownTesti"></class>
+            <class name="tests.saucedemo.C02_PageClassKullanimi"></class>
+            <class name="tests.saucedemo.C04_DropdownTesti"></class>
         </classes>
     </test>
 

@@ -4,68 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27eb952a-9bd8-4f3d-aad1-dafca67b12ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/FacebookPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/TestotomasyonPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ToFormPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/WebUniversityPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ZeroPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_testNGFramework/C01_IlkTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_testNGFramework/C02_Priority.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day15_testNGFramework/C03_dependsOnMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_TestNG_Framework/C01_BasicDriverClassKullanimi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_TestNG_Framework/C02_PageClassKullanimi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_TestNG_Framework/C03_FacebookTesti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_TestNG_Framework/C04_DropdownTesti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_TestNG_Framework/C05_WebUniversity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C01_QuitDriver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C02_DinamikTestDatasiKullanimi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C03_PositiveLoginTesti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C04_NegativeLoginTesti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C05_SingletonPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_TestNGFramework_Assertions/C06_Assertions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18_TestNGAssertions_xmlFiles/C01_SoftAssert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day18_TestNGAssertions_xmlFiles/C02_ZeroSoftAssert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day19_htmlReports/C01_RaporluTestOlusturma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_crossBrowserTestler/C01_CrossBrowserAramaTesti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_crossBrowserTestler/C02_CrossBrowserPozitifLoginTesti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_htmlReports_dataProvider/C01_RaporluNegatifLoginTestleri.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_htmlReports_dataProvider/C02_TopluAramaTesti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_htmlReports_dataProvider/C03_DataProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day20_htmlReports_dataProvider/C04_TopluNegatifLoginTesti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/FacebookPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/TestotomasyonPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/ToFormPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/WebUniversityPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/ZeroPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_testNGFramework/C01_IlkTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_testNGFramework/C02_Priority.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day15_testNGFramework/C03_dependsOnMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_TestNG_Framework/C01_BasicDriverClassKullanimi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_TestNG_Framework/C02_PageClassKullanimi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_TestNG_Framework/C03_FacebookTesti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_TestNG_Framework/C04_DropdownTesti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day16_TestNG_Framework/C05_WebUniversity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C01_QuitDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C02_DinamikTestDatasiKullanimi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C03_PositiveLoginTesti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C04_NegativeLoginTesti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C05_SingletonPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day17_TestNGFramework_Assertions/C06_Assertions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18_TestNGAssertions_xmlFiles/C01_SoftAssert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day18_TestNGAssertions_xmlFiles/C02_ZeroSoftAssert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day19_htmlReports/C01_RaporluTestOlusturma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_crossBrowserTestler/C01_CrossBrowserAramaTesti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_crossBrowserTestler/C02_CrossBrowserPozitifLoginTesti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_htmlReports_dataProvider/C01_RaporluNegatifLoginTestleri.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_htmlReports_dataProvider/C02_TopluAramaTesti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_htmlReports_dataProvider/C03_DataProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/day20_htmlReports_dataProvider/C04_TopluNegatifLoginTesti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlFiles/istenenClasslariCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/istenenClasslariCalistirma.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlFiles/raporluClasslariCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/raporluClasslariCalistirma.xml" afterDir="false" />
+    <list default="true" id="27eb952a-9bd8-4f3d-aad1-dafca67b12ad" name="Changes" comment="new 0412">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ProductsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/saucedemo/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/CartPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/ProductsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlFiles/grupCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/grupCalistirma.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlFiles/istenenFarkliHiyerarsileriBeraberCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/istenenFarkliHiyerarsileriBeraberCalistirma.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlFiles/paralelCalistirma_classSeviyesinde.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/paralelCalistirma_classSeviyesinde.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmlFiles/paralelCalistirma_testSeviyesinde.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/paralelCalistirma_testSeviyesinde.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,25 +28,127 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AkifYo"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AkifYo&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AkifYo/SeleniumSauceDemoTest.git",
-    "accountId": "238fef0d-dd6f-4e8f-8d63-9f9ab34461ec"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AkifYo/SeleniumSauceDemoTest.git&quot;,
+    &quot;accountId&quot;: &quot;238fef0d-dd6f-4e8f-8d63-9f9ab34461ec&quot;
   }
+}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
 }]]></component>
+  <component name="ProjectId" id="2vfiDvFmxgw15Abpy9aDWRCF4Jb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "main"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/grupCalistirma.xml.executor": "Run",
+    "TestNG.LoginTest.loginTest.executor": "Run",
+    "TestNG.LoginTest.loginToApp1.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/raporluClasslariCalistirma.xml">
+    <configuration name="C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/grupCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sauce" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/grupCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/raporluClasslariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sauce" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/raporluClasslariCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sauce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.saucedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.saucedemo" />
+      <option name="MAIN_CLASS_NAME" value="tests.saucedemo.LoginTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginToApp1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sauce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.saucedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.saucedemo" />
+      <option name="MAIN_CLASS_NAME" value="tests.saucedemo.LoginTest" />
+      <option name="METHOD_NAME" value="loginToApp1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/raporluClasslariCalistirma.xml" />
+        <item itemvalue="TestNG.LoginTest.loginToApp1" />
+        <item itemvalue="TestNG.LoginTest.loginTest" />
+        <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/grupCalistirma.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="new 0412">
+      <option name="closed" value="true" />
+      <created>1744486469409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744486469409</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27eb952a-9bd8-4f3d-aad1-dafca67b12ad" name="Changes" comment="new 0412" />
+      <created>1744542418785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744542418785</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new 0412" />
+    <option name="LAST_COMMIT_MESSAGE" value="new 0412" />
   </component>
 </project>

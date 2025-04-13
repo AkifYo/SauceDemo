@@ -5,7 +5,7 @@
 
         <classes>
 
-            <class name="tests.day19_htmlReports.C01_RaporluTestOlusturma"></class>
+            <class name="tests.saucedemo.LoginTest"></class>
 
         </classes>
 
