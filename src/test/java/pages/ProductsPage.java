@@ -25,6 +25,8 @@ public class ProductsPage {
 
 
 
+
+
     public String getProductHeaderText(){
 
         return productHeader.getText();

@@ -75,6 +75,9 @@ public class LoginTest extends TestBaseRapor{
 
         Assert.assertTrue(actualValue.contains(expectedValue));
 
+        ReusableMethods.bekle(3);
+        Driver.quitDriver();
+
     }
 
 

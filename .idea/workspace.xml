@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27eb952a-9bd8-4f3d-aad1-dafca67b12ad" name="Changes" comment="new 0413">
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/saucedemo/AddingTheProductToTheCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ProductsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ProductsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/saucedemo/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/saucedemo/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/ProductsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/ProductsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemo/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/saucedemo/LoginTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +53,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "TestNG.AddingTheProductToTheCart.productAddingTest.executor": "Run",
     "TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/grupCalistirma.xml.executor": "Run",
     "TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/raporluClasslariCalistirma.xml.executor": "Run",
     "TestNG.LoginTest.loginTest.executor": "Run",
@@ -49,7 +62,25 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.LoginTest.loginToApp1">
+  <component name="RunManager" selected="TestNG.AddingTheProductToTheCart.productAddingTest">
+    <configuration name="AddingTheProductToTheCart.productAddingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Sauce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.saucedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.saucedemo" />
+      <option name="MAIN_CLASS_NAME" value="tests.saucedemo.AddingTheProductToTheCart" />
+      <option name="METHOD_NAME" value="productAddingTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/grupCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Sauce" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/grupCalistirma.xml" />
@@ -108,6 +139,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AddingTheProductToTheCart.productAddingTest" />
         <item itemvalue="TestNG.LoginTest.loginToApp1" />
         <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/raporluClasslariCalistirma.xml" />
         <item itemvalue="TestNG.LoginTest.loginTest" />
@@ -148,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744543267596</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new 0413">
+      <option name="closed" value="true" />
+      <created>1744543668791</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744543668791</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
