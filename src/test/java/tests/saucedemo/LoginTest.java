@@ -7,6 +7,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import pages.LoginPage;
 import pages.ProductsPage;
+import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.ReusableMethods;
 import utilities.TestBaseRapor;
@@ -67,7 +68,7 @@ public class LoginTest extends TestBaseRapor{
         Driver.getDriver().get("https://www.saucedemo.com/");
         ReusableMethods.bekle(1);
 
-        loginPage.loginToApp("standard_user","secret_sauce");
+        loginPage.loginToApp(ConfigReader.getProperty("loginUsername"),ConfigReader.getProperty("loginPassword"));
 
         String actualValue=productsPage.getProductHeaderText();
         String expectedValue="Products";

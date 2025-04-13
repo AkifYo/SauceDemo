@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27eb952a-9bd8-4f3d-aad1-dafca67b12ad" name="Changes" comment="new 0412">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ProductsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/saucedemo/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/CartPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/ProductsPage.class" afterDir="false" />
+    <list default="true" id="27eb952a-9bd8-4f3d-aad1-dafca67b12ad" name="Changes" comment="new 0413">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlFiles/grupCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/grupCalistirma.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlFiles/istenenFarkliHiyerarsileriBeraberCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/istenenFarkliHiyerarsileriBeraberCalistirma.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlFiles/paralelCalistirma_classSeviyesinde.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/paralelCalistirma_classSeviyesinde.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlFiles/paralelCalistirma_testSeviyesinde.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmlFiles/paralelCalistirma_testSeviyesinde.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +29,9 @@
     &quot;accountId&quot;: &quot;238fef0d-dd6f-4e8f-8d63-9f9ab34461ec&quot;
   }
 }</component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2vfiDvFmxgw15Abpy9aDWRCF4Jb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,13 +42,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/grupCalistirma.xml.executor": "Run",
+    "TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/raporluClasslariCalistirma.xml.executor": "Run",
     "TestNG.LoginTest.loginTest.executor": "Run",
     "TestNG.LoginTest.loginToApp1.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/raporluClasslariCalistirma.xml">
+  <component name="RunManager" selected="TestNG.LoginTest.loginToApp1">
     <configuration name="C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/grupCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Sauce" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/grupCalistirma.xml" />
@@ -120,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/raporluClasslariCalistirma.xml" />
         <item itemvalue="TestNG.LoginTest.loginToApp1" />
+        <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/raporluClasslariCalistirma.xml" />
         <item itemvalue="TestNG.LoginTest.loginTest" />
         <item itemvalue="TestNG.C:/Users/Lenovo X270/IdeaProjects/SeleniumSauceDemoTest/xmlFiles/grupCalistirma.xml" />
       </list>
@@ -144,11 +132,28 @@
       <option name="presentableId" value="Default" />
       <updated>1744542418785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new 0413">
+      <option name="closed" value="true" />
+      <created>1744543255093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744543255094</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new 0413">
+      <option name="closed" value="true" />
+      <created>1744543267596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744543267596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new 0412" />
-    <option name="LAST_COMMIT_MESSAGE" value="new 0412" />
+    <MESSAGE value="new 0413" />
+    <option name="LAST_COMMIT_MESSAGE" value="new 0413" />
   </component>
 </project>
